@@ -10,5 +10,10 @@ int main()
   for (int i = 0; i < 10; i++){
     print("Test 브랜치\n");
   }
+
+  while(1)
+  {
+    print("Not good programming\n");
+  }
   return 0;
 }
