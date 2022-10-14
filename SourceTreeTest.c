@@ -18,5 +18,10 @@ int main()
     print("Not good programming\n");
   }
 
+  while(1)
+  {
+    print("Not good programming Function4\n");
+  }
+
   return 0;
 }
