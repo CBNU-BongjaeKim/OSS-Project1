@@ -13,12 +13,9 @@ int main()
     print("Test 브랜치\n");
   }
 
-<<<<<<< HEAD
   while(1)
   {
     print("Not good programming\n");
   }
-=======
->>>>>>> b95847241ef687784d1fdef6139eaa59dfc72598
   return 0;
 }
