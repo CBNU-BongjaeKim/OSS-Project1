@@ -23,6 +23,10 @@ int main()
     print("Not good programming2\n");
   }
 
+  while(1)
+  {
+    print("Not good programming3\n");
+  }
 
   return 0;
 }
