@@ -27,12 +27,11 @@ int main()
   {
     print("Not good programming3\n");
   }
-  
+
   while(1)
   {
     print("Not good programming4\n");
   }
-
 
   return 0;
 }
